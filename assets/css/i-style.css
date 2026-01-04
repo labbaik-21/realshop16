@@ -502,7 +502,7 @@ img:active,
 
 .bar {
     padding: 10px;
-    width: 350px;
+    width: 320px;
     border-radius: 50px;
     border-style: solid;
     border-color: none;
@@ -512,3 +512,4 @@ img:active,
     margin-right: -12px;
 
 }
+
